@@ -6807,15 +6807,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Park\\.nuget\\packages\\": {}
+    "C:\\Users\\ICT CoC\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Working with Orchestrator Resources in Studio",
       "projectName": "Working with Orchestrator Resources in Studio",
-      "projectPath": "C:\\Users\\Park\\Desktop\\Working with Orchestrator Resources in Studio\\.local",
-      "packagesPath": "C:\\Users\\Park\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Park\\Desktop\\Working with Orchestrator Resources in Studio\\.local"
+      "projectPath": "C:\\Users\\ICT CoC\\Documents\\UiPathAcademy\\Working with Orchestrator Resources in Studio\\.local",
+      "packagesPath": "C:\\Users\\ICT CoC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ICT CoC\\Documents\\UiPathAcademy\\Working with Orchestrator Resources in Studio\\.local"
     },
     "frameworks": {
       "net461": {
@@ -6831,7 +6831,7 @@
             "version": "[24.10.0, 24.10.0]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Park\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\ICT CoC\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
