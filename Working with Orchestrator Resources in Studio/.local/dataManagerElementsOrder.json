@@ -11,14 +11,11 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "Password&Sequence_2",
-        "Email&Sequence_2",
-        "dt_ExtractDataTable&Sequence_2",
-        "strID&Sequence_2",
-        "sstrPW&Sequence_2"
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_strID",
+        "in_sstrPW"
       ],
-      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
     }
